@@ -124,7 +124,7 @@ print(missing_number([1, 3,4, 5, 6], 6))  # Output: 3
 print(missing_number([1, 2, 3, 5, 6], 6))  # Output: 4
 case1 = [1, 2, 3, 4, 5]
 
-
+sssssssssssssssssssssssssssssssssssssssssssssss
 print(case1)
 
 
